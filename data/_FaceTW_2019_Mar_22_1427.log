@@ -1,0 +1,26 @@
+10.9807 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([165., 165., 165.]), colorSpace='rgb255', fullscr=UNKNOWN, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x112545950>, multiSample=False, name='window1', numSamples=2, pos=[0, 0], screen=0, size=array([1440,  900]), stereo=False, units=u'norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType=u'pyglet')
+10.9808 	EXP 	window1: recordFrameIntervals = True
+10.9811 	EXP 	window1: mouseVisible = False
+10.9812 	EXP 	window1: recordFrameIntervals = False
+11.1463 	EXP 	window1: recordFrameIntervals = True
+11.3297 	EXP 	window1: recordFrameIntervals = True
+11.5422 	EXP 	Created instruction_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Calibri', fontFiles=[], height=0.9, italic=False, name='instruction_text', opacity=1.0, ori=0, pos=array([0. , 0.5]), rgb=array([255., 255., 255.]), text=newstr(...), units='deg', win=Window(...), wrapWidth=20)
+11.5854 	EXP 	Created instruction_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Calibri', fontFiles=[], height=0.9, italic=False, name='instruction_text', opacity=1.0, ori=0, pos=array([0. , 0.5]), rgb=array([255., 255., 255.]), text=newstr(...), units='deg', win=Window(...), wrapWidth=20)
+11.7521 	EXP 	Created unnamed ImageStim = ImageStim(autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='Stimuli/nithisDaisies.jpg', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([17.6,  4.4]), texRes=128, units='deg', win=Window(...))
+11.7596 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='+', units='deg', win=Window(...), wrapWidth=15.0)
+11.7685 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='<-->', units='cm', win=Window(...), wrapWidth=15.0)
+11.7793 	WARNING 	t of last frame was 449.97ms (=1/2)
+12.3323 	DATA 	Keypress: space
+12.3462 	WARNING 	t of last frame was 566.87ms (=1/1)
+13.6627 	DATA 	Keypress: 5
+13.6962 	WARNING 	t of last frame was 1350.03ms (=1/0)
+13.6962 	EXP 	unnamed ImageStim: image = 'Stimuli/Eyes/EnhancedGrayscaleeyes.png'
+15.6964 	EXP 	unnamed ImageStim: image = 'Stimuli/Nose/EnhancedGrayscaleNose.png'
+17.7132 	EXP 	unnamed ImageStim: image = 'Stimuli/Mouth/EnhancedGrayscaleMouth.png'
+19.7301 	EXP 	unnamed ImageStim: image = 'Stimuli/Eyes/EnhancedGrayscaleeyes.png'
+21.7469 	EXP 	unnamed ImageStim: image = 'Stimuli/Nose/EnhancedGrayscaleNose.png'
+23.7636 	EXP 	unnamed ImageStim: image = 'Stimuli/Mouth/EnhancedGrayscaleMouth.png'
+25.7806 	EXP 	unnamed ImageStim: image = 'Stimuli/Eyes/EnhancedGrayscaleeyes.png'
+27.7975 	EXP 	unnamed ImageStim: image = 'Stimuli/Nose/EnhancedGrayscaleNose.png'
+28.6933 	DATA 	Keypress: escape
+28.9626 	EXP 	window1: mouseVisible = True

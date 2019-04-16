@@ -1,0 +1,23 @@
+10.8149 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+11.4636 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x115bde090>, multiSample=False, name='window1', numSamples=2, pos=[0, 0], screen=0, size=array([1440,  900]), stereo=False, units=u'norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType=u'pyglet')
+11.4637 	EXP 	window1: recordFrameIntervals = False
+11.6294 	EXP 	window1: recordFrameIntervals = True
+11.8129 	EXP 	window1: recordFrameIntervals = False
+11.9164 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text='+', units=u'norm', win=Window(...), wrapWidth=1)
+11.9247 	EXP 	Imported ../../../../Users/rohansopp/Documents/Psychopy practice/FixationTest.xlsx as conditions, 9 conditions, 2 params
+11.9251 	EXP 	Created sequence: fullRandom, trialTypes=9, nReps=1, seed=None
+11.9254 	EXP 	New trial (rep=0, index=0): OrderedDict([(u'Colour', u'Green'), (u'Time', 6)])
+11.9461 	EXP 	text: color = u'Green (named)'
+11.9461 	EXP 	text: autoDraw = True
+13.4743 	DATA 	Keypress: space
+21.7835 	DATA 	Keypress: space
+23.1835 	DATA 	Keypress: return
+24.7684 	DATA 	Keypress: space
+24.9667 	DATA 	Keypress: space
+25.1332 	DATA 	Keypress: space
+25.3166 	DATA 	Keypress: space
+25.5168 	DATA 	Keypress: space
+25.7334 	DATA 	Keypress: space
+26.1668 	DATA 	Keypress: space
+27.0690 	DATA 	Keypress: escape
+27.3500 	EXP 	window1: mouseVisible = True
